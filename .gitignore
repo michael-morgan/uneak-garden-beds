@@ -1,0 +1,6 @@
+wireframes/
+test/
+docs/
+node_modules/
+app/public/dist/
+app/public/index.html
