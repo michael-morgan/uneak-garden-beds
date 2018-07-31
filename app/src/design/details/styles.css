@@ -1,0 +1,20 @@
+#tabContainer {
+  text-align: center;
+}
+
+#tabContainer > li {
+  float:none;
+  display:inline-block;
+  *display:inline; /* ie7 fix */
+  zoom:1; /* hasLayout ie7 trigger */
+}
+
+#tabContainer > li > a {
+  color: #2C3E50;
+  background-color: initial;
+}
+
+.tabActive {
+  border: 1px solid #2C3E50;
+  border-radius: 2em;
+}

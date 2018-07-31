@@ -1,0 +1,54 @@
+[
+  {
+    "path": "/",
+    "page": "./home",
+    "chunk": "main"
+  },
+  {
+    "path": "/how",
+    "page": "./info"
+  },
+  {
+    "path": "/products",
+    "page": "./products"
+  },
+  {
+    "path": "/products/:id",
+    "data": {
+      "data": "GET /data.json"
+    },
+    "page": "./products/product"
+  },
+  {
+    "path": "/cart",
+    "data": {
+      "data": "GET /data.json"
+    },
+    "page": "./cart"
+  },
+  {
+    "path": "/cart/summary",
+    "page": "./cart/summary"
+  },
+  {
+    "path": "/design",
+    "page": "./design"
+  },
+  {
+    "path": "/gallery",
+    "page": "./gallery"
+  },
+  {
+    "path": "/error",
+    "page": "./error",
+    "chunk": "main"
+  },
+  {
+    "path": "/about",
+    "page": "./about"
+  },
+  {
+    "path": "/contact",
+    "page": "./contact"
+  }
+]

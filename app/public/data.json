@@ -1,0 +1,354 @@
+{
+  "products" : [
+    {
+      "id": "1",
+      "type": "bracket",
+      "thumb": "/images/bracket-black-1.png",
+      "title": "Uneak Raised Garden Bed Black Bracket - Set of 4",
+      "description": "These high quality brackets are built to last & help make any space a place to grow, build, play or design. 3 settings allow users to create any shape bed or structure. Just add 2x6 Timbers",
+      "details": [
+        "Made of Solid Steel",
+        "Includes decorative top caps",
+        "Includes removable ground cleats",
+        "Snap & stack for multi-levels",
+        "Use on deck or ground surfaces",
+        "3 custom angle settings make any shape bed",
+        "UV powder coat paint finish",
+        "Minimal tool requirement",
+        "Fade resistant",
+        "Includes wood screws",
+        "Made with USA & Canadian Materials",
+        "Just add 2x6 timbers",
+        "4 Uneak brackets per pack"
+      ],
+      "price": 34.95,
+      "images": ["/images/bracket-black-1.png", "/images/bracket-black-2.png", "/images/bracket-black-3.png"]
+    },
+    {
+      "id": "2",
+      "type": "bracket",
+      "thumb": "/images/bracket-copper-1.png",
+      "title": "Uneak Raised Garden Bed Copper Bracket - Set of 4",
+      "description": "These high quality brackets are built to last & help make any space a place to grow, build, play or design. 3 settings allow users to create any shape bed or structure. Just add 2x6 Timbers",
+      "details": [
+        "Made of Solid Steel",
+        "Includes decorative top caps",
+        "Includes removable ground cleats",
+        "Snap & stack for multi-levels",
+        "Use on deck or ground surfaces",
+        "3 custom angle settings make any shape bed",
+        "UV powder coat paint finish",
+        "Minimal tool requirement",
+        "Fade resistant",
+        "Includes wood screws",
+        "Made with USA & Canadian Materials",
+        "Just add 2x6 timbers",
+        "4 Uneak brackets per pack"
+      ],
+      "price": 34.95,
+      "images": ["/images/bracket-copper-1.png"]
+    },
+    {
+      "id": "3",
+      "type": "kit",
+      "thumb": "/images/bed-grey-1.png",
+      "title": "Uneak Premium Raised Garden Bed Kit - Grey Timber Black",
+      "description": "Quality second to none, this kit is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets. Combine with other kits or brackets for larger beds or complex structures.",
+      "details": [
+        "Includes 4 Uneak Corner Brackets",
+        "Includes 4 Uneak high quality composite timbers",
+        "Makes 45” x 45” garden or sandbox",
+        "Snap & stack for multi-levels",
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 60.00,
+      "images": ["/images/bed-grey-1.png"]
+    },
+    {
+      "id": "4",
+      "type": "kit",
+      "thumb": "/images/bed-brown-2.png",
+      "title": "Uneak Premium Raised Garden Bed Kit - Chestnut Timber Black",
+      "description": "Quality second to none, this kit is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets. Combine with other kits or brackets for larger beds or complex structures.",
+      "details": [
+        "Includes 4 Uneak Corner Brackets",
+        "Includes 4 Uneak high quality composite timbers",
+        "Makes 45” x 45” garden or sandbox",
+        "Snap & stack for multi-levels",
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 60.00,
+      "images": ["/images/bed-brown-2.png"]
+    },
+    {
+      "id": "5",
+      "type": "fc",
+      "thumb": "/images/garden-4.png",
+      "title": "Farmers Corner",
+      "description": "Quality second to none, this structure is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets.",
+      "details": [
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 380.00,
+      "images": ["/images/garden-4.png"]
+    },
+    {
+      "id": "6",
+      "type": "ce",
+      "thumb": "/images/garden-5.png",
+      "title": "Crazy Eights",
+      "description": "Quality second to none, this structure is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets.",
+      "details": [
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 240.00,
+      "images": ["/images/garden-5.png"]
+    },
+    {
+      "id": "7",
+      "type": "ll",
+      "thumb": "/images/garden-3.svg",
+      "title": "Long Landing",
+      "description": "Quality second to none, this structure is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets.",
+      "details": [
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 360.00,
+      "images": ["/images/garden-3.svg", "/images/bed-brown-4.png"]
+    },
+    {
+      "id": "8",
+      "type": "ll",
+      "thumb": "/images/garden-grey-3.png",
+      "title": "Long Landing",
+      "description": "Quality second to none, this structure is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets.",
+      "details": [
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 360.00,
+      "images": ["/images/garden-grey-3.png", "/images/bed-grey-2.png"]
+    },
+    {
+      "id": "9",
+      "type": "td",
+      "thumb": "/images/garden-1.svg",
+      "title": "Tripple Deck",
+      "description": "Quality second to none, this structure is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets.",
+      "details": [
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 360.00,
+      "images": ["/images/garden-1.svg", "/images/bed-brown-1.png"]
+    },
+    {
+      "id": "10",
+      "type": "td",
+      "thumb": "/images/garden-grey-1.png",
+      "title": "Tripple Deck",
+      "description": "Quality second to none, this structure is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets.",
+      "details": [
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 360.00,
+      "images": ["/images/garden-grey-1.png", "/images/bed-grey-4.png"]
+    },
+    {
+      "id": "11",
+      "type": "ff",
+      "thumb": "/images/garden-2.svg",
+      "title": "Free Form",
+      "description": "Quality second to none, this structure is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets.",
+      "details": [
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 599.00,
+      "images": ["/images/garden-2.svg", "/images/bed-brown-5.png"]
+    },
+    {
+      "id": "12",
+      "type": "ff",
+      "thumb": "/images/garden-grey-2.png",
+      "title": "Free Form",
+      "description": "Quality second to none, this structure is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets.",
+      "details": [
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 599.00,
+      "images": ["/images/garden-grey-2.png", "/images/bed-grey-3.png"]
+    },
+    {
+      "id": "13",
+      "type": "ces",
+      "thumb": "/images/bed-brown-3.png",
+      "title": "Crazy Eights Sandbox",
+      "description": "Quality second to none, this structure is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets.",
+      "details": [
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 240.00,
+      "images": ["/images/bed-brown-3.png"]
+    },
+    {
+      "id": "14",
+      "type": "ces",
+      "thumb": "/images/sandbox-3.png",
+      "title": "Crazy Eights Sandbox",
+      "description": "Quality second to none, this structure is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets.",
+      "details": [
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 240.00,
+      "images": ["/images/sandbox-3.png", "/images/bed-grey-5.png"]
+    },
+    {
+      "id": "15",
+      "type": "sks",
+      "thumb": "/images/sandbox-2.svg",
+      "title": "Square Kit Sandbox",
+      "description": "Quality second to none, this structure is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets.",
+      "details": [
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 119.99,
+      "images": ["/images/sandbox-2.svg"]
+    },
+    {
+      "id": "16",
+      "type": "sks",
+      "thumb": "/images/sandbox-1.svg",
+      "title": "Square Kit Sandbox",
+      "description": "Quality second to none, this structure is sturdy, durable & built to last. Featuring our strongest water resistant Rice Husk composite & steel strong brackets.",
+      "details": [
+        "Minimal tool requirement",
+        "Wood screws included",
+        "Durable finish & materials",
+        "Water resistant"
+      ],
+      "price": 119.99,
+      "images": ["/images/sandbox-1.svg"]
+    }
+  ],
+  "colors": {
+    "bracket": [
+      {
+        "id": "1",
+        "color": "Black"
+      },
+      {
+        "id": "2",
+        "color": "Copper"
+      }
+    ],
+    "kit": [
+      {
+        "id": "3",
+        "color": "Grey"
+      },
+      {
+        "id": "4",
+        "color": "Chestnut"
+      }
+    ],
+    "fc": [
+      {
+        "id": "5",
+        "color": "Chestnut"
+      }
+    ],
+    "ce": [
+      {
+        "id": "6",
+        "color": "Grey"
+      }
+    ],
+    "ll": [
+      {
+        "id": "7",
+        "color": "Chestnut"
+      },
+      {
+        "id": "8",
+        "color": "Grey"
+      }
+    ],
+    "td": [
+      {
+        "id": "9",
+        "color": "Chestnut"
+      },
+      {
+        "id": "10",
+        "color": "Grey"
+      }
+    ],
+    "ff": [
+      {
+        "id": "11",
+        "color": "Chestnut"
+      },
+      {
+        "id": "12",
+        "color": "Grey"
+      }
+    ],
+    "ces": [
+      {
+        "id": "13",
+        "color": "Chestnut"
+      },
+      {
+        "id": "14",
+        "color": "Grey"
+      }
+    ],
+    "sks": [
+      {
+        "id": "15",
+        "color": "Chestnut"
+      },
+      {
+        "id": "16",
+        "color": "Grey"
+      }
+    ]
+  }
+}

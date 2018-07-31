@@ -1,0 +1,32 @@
+#overviewContainer {
+  height: 100vh;
+  min-height: 900px;
+}
+
+#imageContainer {
+  min-height: 900px;
+  min-width: 100%;
+  overflow: hidden;
+  position: absolute;
+}
+
+#overviewImage {
+  position: absolute;
+  width: initial;
+}
+
+#overviewPanel {
+  margin-top: 35%;
+  max-height: 765px;
+  overflow-y: auto;
+}
+
+.fullHeight {
+  height: 100%;
+}
+
+@media (min-width: 992px) {
+  #overviewImage {
+    width: 100%;
+  }
+}

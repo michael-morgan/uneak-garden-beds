@@ -1,0 +1,25 @@
+.hr {
+  border-top: 1px solid #DDD;
+}
+
+#checkoutButton {
+  margin-right: 10px;
+}
+
+.linkButton {
+  background: none !important;
+  color: #8DC63F;
+  border: none;
+  padding: 0 !important;
+  font: inherit;
+  cursor: pointer;
+}
+
+.linkButton:hover, .linkButton:focus {
+    color: #7EB238;
+    text-decoration: underline;
+}
+
+.linkMargin {
+  margin-right: 10px;
+}

@@ -1,0 +1,111 @@
+#overviewContainer {
+  height: 100vh;
+  min-height: 900px;
+}
+
+#imageContainer {
+  min-height: 900px;
+  min-width: 100%;
+  overflow: hidden;
+  position: absolute;
+}
+
+#overviewImage {
+  position: absolute;
+  width: initial;
+}
+
+#contactText {
+  margin-top: 35%;
+  padding: 2em;
+}
+
+#contactText h1 {
+  color: #FFF;
+  font-size: 144px;
+}
+
+.fullHeight {
+  height: 100%;
+}
+
+@media (min-width: 992px) {
+  #overviewImage {
+    width: 100%;
+  }
+}
+
+@media (min-width: 2020px) {
+  #contactText {
+    display: none;
+  }
+}
+
+@media (max-width: 1640px) {
+  #contactText {
+    margin-top: 45%;
+  }
+  #contactText h1 {
+    font-size: 124px;
+  }
+}
+
+@media (max-width: 1280px) {
+  #contactText {
+    margin-top: 60%;
+  }
+  #contactText h1 {
+    font-size: 92px;
+  }
+}
+
+@media (max-width: 980px) {
+  #contactText {
+    margin-top: 80%;
+  }
+  #contactText h1 {
+    font-size: 72px;
+  }
+}
+
+@media (max-width: 768px) {
+  #contactText {
+    margin-top: 105%;
+  }
+  #contactText h1 {
+    font-size: 58px;
+  }
+}
+
+@media (max-width: 576px) {
+  #contactText {
+    margin-top: 140%;
+  }
+  #contactText h1 {
+    font-size: 42px;
+  }
+}
+
+@media (max-width: 450px) {
+  #contactText {
+    margin-top: 190%;
+  }
+  #contactText h1 {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 338px) {
+  #contactText {
+    margin-top: 250%;
+  }
+  #contactText h1 {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 276px) {
+  #contactText {
+    display: none;
+  }
+}

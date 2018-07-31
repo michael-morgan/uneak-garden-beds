@@ -1,0 +1,109 @@
+#mainFooter {
+    background: #3c3d41 url(/images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-size: cover;
+    color: white;
+    padding-top: 30px;
+}
+
+.footerCopyright {
+    background-color: #333333;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+.FooterRow {
+    margin-bottom: 60px;
+}
+
+#mainFooter .navbar-brand {
+    margin-top: 45px;
+    height: 65px;
+}
+
+.footerCopyright p {
+    margin: 10px;
+    color: #ccc;
+}
+
+#mainFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+#mainFooter h5 {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#mainFooter h2 a {
+    font-size: 28px;
+    text-align: center;
+    color: #fff;
+}
+
+#mainFooter a {
+    color: #d2d1d1;
+    text-decoration: none;
+}
+
+#mainFooter a:hover,
+#mainFooter a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+.footerSocials {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 16px;
+}
+
+.footerSocials a {
+    font-size: 32px;
+    color: #f9f9f9;
+    padding: 10px;
+    transition: 0.2s;
+}
+
+.footerSocials a:hover {
+    text-decoration: none;
+}
+
+#footerFacebook:hover {
+    color: #0077e2 !important;
+}
+
+#footerGoogle:hover {
+    color: #ef1a1a !important;
+}
+
+#footerTwitter:hover {
+    color: #00aced !important;
+}
+
+#footerBtn {
+    color: white !important;
+    background-color: #8DC63F;
+    border-radius: 20px;
+    border: none;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    line-height: 25px;
+}
+#footerImage {
+  margin-top: 30px;
+}
+
+@media screen and (max-width: 767px) {
+    #mainFooter {
+        text-align: center;
+    }
+}

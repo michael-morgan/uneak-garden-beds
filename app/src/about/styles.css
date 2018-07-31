@@ -1,0 +1,40 @@
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.titleContainer h2 {
+  margin: 0 !important;
+  font-size: 38px;
+  font-weight: 700 !important;
+}
+
+.textContainer p {
+  font-size: 21px;
+  font-weight: 600;
+  color: #8DC63F !important;
+}
+
+@media (min-width: 992px) {
+  .titleContainer {
+    height: 200px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .textContainer p {
+    margin-top: 1.25em;
+  }
+}
+
+@media (max-width: 991px) {
+  .titleContainer, .textContainer {
+    text-align: center;
+  }
+  .titleContainer h2 {
+    margin: 0.5em 0 !important;
+  }
+  .textContainer p {
+    margin: 1em 0;
+  }
+}

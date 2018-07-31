@@ -1,0 +1,43 @@
+#overviewContainer {
+  height: 100vh;
+  min-height: 900px;
+}
+
+#imageContainer {
+  min-height: 900px;
+  min-width: 100%;
+  overflow: hidden;
+  position: absolute;
+}
+
+#overviewImage {
+  content:url("/images/home-overview-bg-desktop.png");
+  position: absolute;
+  width: 100%;
+}
+
+#overviewPanel {
+  margin-top: 55%;
+  padding: 2em;
+  max-height: 765px;
+  overflow-y: auto;
+}
+
+#imageRow {
+  margin-top: 8%;
+}
+
+.fullHeight {
+  height: 100%;
+}
+
+.mB5 {
+  margin-bottom: 5px;
+}
+
+@media (max-width: 991px) {
+  #overviewImage {
+    content:url("/images/home-overview-bg-mobile.png");
+    width: initial;
+  }
+}

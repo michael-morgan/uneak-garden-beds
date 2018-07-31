@@ -1,0 +1,37 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Uneak Gardens - <%= config.title %></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Copyright" content="2017 Uneak Gardens, www.uneakgardens.com">
+    <meta name="Language" content="en">
+    <meta name="Distribution" content="Global">
+    <meta name="Robots" content="index, follow">
+    <meta name="Rating" content="General">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Uneak Gardens - <%= config.title %>">
+    <meta property="og:description" content="">
+    <meta property="og:url" content="https://uneakgardens.com/">
+    <meta property="og:site_name" content="Uneak Gardens">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:title" content="Uneak Gardens - <%= config.title %>">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+  </head>
+  <body>
+    <div id="container"></div>
+    <script src="<%= bundle %>"></script>
+    <%_ if (!debug && config.trackingID) { _%>
+    <script>
+      window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+      ga('create','<%= config.trackingID %>','auto');ga('send','pageview')
+    </script>
+    <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+    <%_ } _%>
+  </body>
+</html>
